@@ -1,6 +1,6 @@
 {
   "name": "react-app-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple app that reads a REACT_APP_VERSION environment variable",
   "author": "sgrezza",
   "license": "MIT",
