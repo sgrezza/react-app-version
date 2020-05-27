@@ -1,5 +1,4 @@
 import * as React from 'react'
-import styles from './styles.module.css'
 const version = process.env.REACT_APP_VERSION || 'dev'
 const gitLink = process.env.REACT_APP_GIT_URL
 
